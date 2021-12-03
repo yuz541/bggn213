@@ -9,7 +9,7 @@ Bioinformatics class at UC San Diego Fall 2021
 - **08** [Introduction to Machine Learning](https://github.com/yuz541/bggn213/blob/main/class08/class08.md)
 - **09** [Unsupervised learning mini-project](https://github.com/yuz541/bggn213/blob/main/class09_mini_project/class09.md)[source](https://github.com/yuz541/bggn213/blob/main/class09_mini_project/class09.Rmd)
 - **10** [Halloween Candy Mini-project](https://github.com/yuz541/bggn213/blob/main/class10_mini_project/class10.md) 
-- **11** Structural Bioinformatics
+- **11** [Structural Bioinformatics](https://github.com/yuz541/bggn213/blob/main/class11/class11.md)
 - **15** Transcriptomics and RNA-seq
 - **16** RNA-seq Mini-project
 - **17** COVID-19 Vaccination Rate
