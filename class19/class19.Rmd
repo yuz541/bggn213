@@ -2,7 +2,7 @@
 title: 'Class19: Genomic Analysis'
 author: 'Yuhan Zhang (PID: A13829264)'
 date: "12/2/2021"
-output: html_document
+output: pdf_document
 ---
 
 > Q13: Read this file into R and determine the sample size for each genotype and their corresponding median expression levels for each of these genotypes. **Hint**: The `read.table()`, `summary()` and `boxplot()` functions will likely be useful here. There is an example R script online to be used ONLY if you are struggling in vein. Note that you can find the medium value from saving the output of the `boxplot()` function to an R object and examining this object. There is also the `medium()` and `summary()` function that you can use to check your understanding.
@@ -34,4 +34,4 @@ p <- ggplot(genome) + aes(geno, exp, fill = geno) +
 p
 ```
 
-The expression level increase compare G/G to A/A. Thus SNP does effect the expression level of ORMDL3.
+The expression level with A/A SNP increase compare G/G. Thus SNP does effect the expression level of ORMDL3.
