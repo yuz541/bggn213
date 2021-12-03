@@ -2,9 +2,7 @@
 title: "Class 10 Mini Project"
 author: 'Yuhan Zhang (PID: A13829264)'
 date: "10/29/2021"
-output: 
-  pdf_document:
-    latex_engine: xelatex
+output: github_document
 always_allow_html: true
 ---
 
