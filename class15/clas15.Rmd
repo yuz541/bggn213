@@ -2,7 +2,7 @@
 title: 'Class15: Transcriptomics and RNA-seq data'
 author: 'Yuhan Zhang (PID: A13829264)'
 date: "11/17/2021"
-output: pdf_document
+output: github_document
 ---
 
 ```{r}

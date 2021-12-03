@@ -2,7 +2,7 @@
 title: 'Class16: RNASeq Mini Project'
 author: 'Yuhan Zhang (PID: A13829264)'
 date: "11/19/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r message=FALSE}

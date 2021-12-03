@@ -2,7 +2,7 @@
 title: 'Class17: COVID-19 Vaccination Rates'
 author: 'Yuhan Zhang (PID: A13829264)'
 date: "11/24/2021"
-output: html_document
+output: github_document
 ---
 
 # Background
