@@ -2,7 +2,7 @@
 title: 'Class 06: R Functions'
 author: 'Yuhan Zhang (PID: A13829264)'
 date: "10/15/2021"
-output: pdf_document
+output: github_document
 ---
 
 ## Quick Rmarkdown intro
