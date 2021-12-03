@@ -12,5 +12,5 @@ Bioinformatics class at UC San Diego Fall 2021
 - **11** [Structural Bioinformatics](https://github.com/yuz541/bggn213/blob/main/class11/class11.md)
 - **15** [Transcriptomics and RNA-seq](https://github.com/yuz541/bggn213/blob/main/class15/clas15.md)
 - **16** [RNA-seq Mini-project](https://github.com/yuz541/bggn213/blob/main/class16/class16.md)
-- **17** [COVID-19 Vaccination Rate](https://github.com/yuz541/bggn213/tree/main/class17)
+- **17** [COVID-19 Vaccination Rate](https://github.com/yuz541/bggn213/blob/main/class17/class17.md)
 - **19** [Genomic Analysis](https://github.com/yuz541/bggn213/blob/main/class19/class19.md)
