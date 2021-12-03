@@ -1,5 +1,8 @@
 #' ---
+#' title: 'Class 05: Data Visualization'
 #' author: "Yuhan Zhang"
+#' output: github_document
+#' always_allow_html: true
 #' ---
 
 # Class 05: Data Visualization
